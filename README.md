@@ -60,3 +60,9 @@ Overall, the Real-Time Chat Application is a useful and practical project that s
 
 ## OUTPUTS:
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/32a22d75-0d4c-4f03-8bfc-31b28041288f" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/df53a2ab-8d3e-4b78-9c0a-dc2b1fb4f992" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/31e66d1d-f361-475e-9ad0-1cdf958b1980" />
+
